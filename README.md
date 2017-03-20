@@ -7,7 +7,7 @@
 * [License](#license)
 
 
-##Intro
+## Intro
 Swift version of the Ackermann Function. You can read more about the Ackermann Function [here](https://en.wikipedia.org/wiki/Ackermann_function). If you'd like to watch a video about it, check out [this video](https://www.youtube.com/watch?v=i7sm9dzFtEI) from Computerphile.
 
 Realistically, the highest value of Ackermann you will be able to compute on your machine is Ackermann(4, 1), with a value of 65533. This will take a few minutes and use about 25GB of RAM.
